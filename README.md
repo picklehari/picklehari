@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Currently learning Algorithm Design and Computational Game Theory. Open to Collaborations and projects. You can reach me at [picklehari.me](picklehari.me). 
+I'm Currently learning Algorithm Design and Computational Game Theory. Open to Collaborations and projects. You can reach me at [picklehari.me](picklehari.xyz). 
 
